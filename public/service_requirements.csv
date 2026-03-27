@@ -1,0 +1,15 @@
+service_name,field_name,field_label,field_type,is_required
+"Mutasi Siswa",nama_lengkap,Nama Lengkap,text,true
+"Mutasi Siswa",asal_sekolah,Asal Sekolah,text,true
+"Mutasi Siswa",sekolah_tujuan,Sekolah Tujuan,text,true
+"Mutasi Siswa",alasan_mutasi,Alasan Mutasi,textarea,true
+"Mutasi Siswa",berkas_pendukung,Berkas Pendukung (PDF/JPG),file,true
+"Rekomendasi Kegiatan",nama_kegiatan,Nama Kegiatan,text,true
+"Rekomendasi Kegiatan",penyelenggara,Penyelenggara,text,true
+"Rekomendasi Kegiatan",tanggal_kegiatan,Tanggal Kegiatan,date,true
+"Rekomendasi Kegiatan",proposal,Proposal Kegiatan (PDF),file,true
+"Pendaftaran Nikah",nama_suami,Nama Calon Suami,text,true
+"Pendaftaran Nikah",nama_istri,Nama Calon Istri,text,true
+"Pendaftaran Nikah",tanggal_akad,Tanggal Akad Nikah,date,true
+"Pendaftaran Nikah",lokasi_akad,Lokasi Akad Nikah,text,true
+"Pendaftaran Nikah",berkas_nikah,Berkas Persyaratan (PDF),file,true
